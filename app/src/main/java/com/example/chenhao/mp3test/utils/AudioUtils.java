@@ -84,7 +84,7 @@ public class AudioUtils {
     private AudioUtils() {
         mExecutorService = Executors.newSingleThreadExecutor();
     }
-
+  
     /**
      * 获得 单例的录音类
      *
